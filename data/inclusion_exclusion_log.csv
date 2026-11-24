@@ -1,0 +1,504 @@
+Ticker,no_data,first_date,last_date,dates_not_in_benchmark,missing_adj_close,missing_close,missing_volume,nonpositive_prices,zero_or_negative_volume,splits,dividend_days,split_not_in_close,adj_factor_problems,moves_over_40pct,Reason,Included,Security,GICS Sector
+A,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Agilent Technologies,Health Care
+AAPL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Apple Inc.,Information Technology
+ABBV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,AbbVie,Health Care
+ABNB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Airbnb,Consumer Discretionary
+ABT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Abbott Laboratories,Health Care
+ACGL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,1.0,0.0,0,0,,True,Arch Capital Group,Financials
+ACN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Accenture,Information Technology
+ADBE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Adobe Inc.,Information Technology
+ADI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Analog Devices,Information Technology
+ADM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Archer Daniels Midland,Consumer Staples
+ADP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Automatic Data Processing,Industrials
+ADSK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Autodesk,Information Technology
+AEE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ameren,Utilities
+AEP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,American Electric Power,Utilities
+AES,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,AES Corporation,Utilities
+AFL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Aflac,Financials
+AIG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,American International Group,Financials
+AIZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Assurant,Financials
+AJG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Arthur J. Gallagher & Co.,Financials
+AKAM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Akamai Technologies,Information Technology
+ALB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Albemarle Corporation,Materials
+ALGN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Align Technology,Health Care
+ALL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Allstate,Financials
+ALLE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Allegion,Industrials
+AMAT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Applied Materials,Information Technology
+AMCR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Amcor,Materials
+AMD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Advanced Micro Devices,Information Technology
+AME,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ametek,Industrials
+AMGN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Amgen,Health Care
+AMP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ameriprise Financial,Financials
+AMT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,American Tower,Real Estate
+AMZN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Amazon,Consumer Discretionary
+ANET,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,0.0,0.0,0,0,,True,Arista Networks,Information Technology
+AON,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Aon plc,Financials
+AOS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,A. O. Smith,Industrials
+APA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,APA Corporation,Energy
+APD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Air Products,Materials
+APH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,16.0,0.0,0,0,,True,Amphenol,Information Technology
+APO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Apollo Global Management,Financials
+APP,False,2021-04-15,2024-12-31,0.0,70,70,70,0,0,0.0,0.0,0.0,0,1,history starts 2021-04-15 (unequal history),False,AppLovin,Communication Services
+APTV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Aptiv,Consumer Discretionary
+ARE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Alexandria Real Estate Equities,Real Estate
+ARES,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ares Management,Financials
+ATO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Atmos Energy,Utilities
+AVGO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Broadcom,Information Technology
+AVY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Avery Dennison,Materials
+AWK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,American Water Works,Utilities
+AXON,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Axon Enterprise,Industrials
+AXP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,American Express,Financials
+AZO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,AutoZone,Consumer Discretionary
+BA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Boeing,Industrials
+BAC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Bank of America,Financials
+BALL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ball Corporation,Materials
+BAX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Baxter International,Health Care
+BBY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Best Buy,Consumer Discretionary
+BDX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Becton Dickinson,Health Care
+BE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,1,,True,Bloom Energy,Industrials
+BEN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Franklin Resources,Financials
+BF-B,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Brown–Forman,Consumer Staples
+BG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Bunge Global,Consumer Staples
+BIIB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Biogen,Health Care
+BKNG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,4.0,0.0,0,0,,True,Booking Holdings,Consumer Discretionary
+BKR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Baker Hughes,Energy
+BLK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,BlackRock,Financials
+BMY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Bristol Myers Squibb,Health Care
+BNY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,BNY Mellon,Financials
+BR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Broadridge Financial Solutions,Industrials
+BRK-B,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Berkshire Hathaway,Financials
+BRO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Brown & Brown,Financials
+BSX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Boston Scientific,Health Care
+BX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Blackstone Inc.,Financials
+BXP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,"BXP, Inc.",Real Estate
+C,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Citigroup,Financials
+CAH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Cardinal Health,Health Care
+CARR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Carrier Global,Industrials
+CASY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Casey's,Consumer Staples
+CAT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Caterpillar Inc.,Industrials
+CB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Chubb Limited,Financials
+CBOE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cboe Global Markets,Financials
+CBRE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,CBRE Group,Real Estate
+CCI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Crown Castle,Real Estate
+CCL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Carnival Corporation,Consumer Discretionary
+CDNS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Cadence Design Systems,Information Technology
+CDW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,CDW Corporation,Information Technology
+CEG,False,2022-01-19,2024-12-31,0.0,263,263,263,0,0,0.0,12.0,0.0,0,0,history starts 2022-01-19 (unequal history),False,Constellation Energy,Utilities
+CF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,CF Industries,Materials
+CFG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Citizens Financial Group,Financials
+CHD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Church & Dwight,Consumer Staples
+CHRW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,C.H. Robinson,Industrials
+CHTR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Charter Communications,Communication Services
+CI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cigna,Health Care
+CIEN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Ciena,Information Technology
+CINF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cincinnati Financial,Financials
+CL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Colgate-Palmolive,Consumer Staples
+CLX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Clorox,Consumer Staples
+CMCSA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Comcast,Communication Services
+CME,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,20.0,0.0,0,0,,True,CME Group,Financials
+CMG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Chipotle Mexican Grill,Consumer Discretionary
+CMI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cummins,Industrials
+CMS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,CMS Energy,Utilities
+CNC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Centene Corporation,Health Care
+CNP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,CenterPoint Energy,Utilities
+COF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Capital One,Financials
+COHR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Coherent Corp.,Information Technology
+COIN,False,2021-04-14,2024-12-31,0.0,69,69,69,0,0,0.0,0.0,0.0,0,0,history starts 2021-04-14 (unequal history),False,Coinbase,Financials
+COO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,6.0,0.0,0,0,,True,Cooper Companies (The),Health Care
+COP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,24.0,0.0,0,0,,True,ConocoPhillips,Energy
+COR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,20.0,0.0,0,0,,True,Cencora,Health Care
+COST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Costco,Consumer Staples
+CPAY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Corpay,Financials
+CPRT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,0.0,0.0,0,0,,True,Copart,Industrials
+CPT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Camden Property Trust,Real Estate
+CRH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,12.0,0.0,0,0,,True,CRH plc,Materials
+CRL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Charles River Laboratories,Health Care
+CRM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,4.0,0.0,0,0,,True,Salesforce,Information Technology
+CRWD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,CrowdStrike,Information Technology
+CSCO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cisco,Information Technology
+CSGP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,CoStar Group,Real Estate
+CSX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,CSX Corporation,Industrials
+CTAS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Cintas,Industrials
+CTSH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Cognizant,Information Technology
+CVNA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,5,,True,Carvana,Consumer Discretionary
+CVS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,CVS Health,Health Care
+CVX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Chevron Corporation,Energy
+D,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Dominion Energy,Utilities
+DAL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,6.0,0.0,0,0,,True,Delta Air Lines,Industrials
+DASH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,DoorDash,Consumer Discretionary
+DD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,DuPont,Industrials
+DDOG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Datadog,Information Technology
+DE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Deere & Company,Industrials
+DECK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Deckers Brands,Consumer Discretionary
+DELL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,11.0,0.0,0,0,,True,Dell Technologies,Information Technology
+DG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Dollar General,Consumer Staples
+DGX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Quest Diagnostics,Health Care
+DHI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,D. R. Horton,Consumer Discretionary
+DHR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Danaher Corporation,Health Care
+DIS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,3.0,0.0,0,0,,True,Walt Disney Company (The),Communication Services
+DLR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Digital Realty,Real Estate
+DLTR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Dollar Tree,Consumer Staples
+DOC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Healthpeak Properties,Real Estate
+DOV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Dover Corporation,Industrials
+DOW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Dow Inc.,Materials
+DPZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Domino's,Consumer Discretionary
+DRI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Darden Restaurants,Consumer Discretionary
+DTE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,DTE Energy,Utilities
+DUK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Duke Energy,Utilities
+DVA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,DaVita,Health Care
+DVN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Devon Energy,Energy
+DXCM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,1,,True,Dexcom,Health Care
+EBAY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,eBay Inc.,Consumer Discretionary
+ECHO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,EchoStar,Communication Services
+ECL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ecolab,Materials
+ED,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Consolidated Edison,Utilities
+EFX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Equifax,Industrials
+EG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Everest Group,Financials
+EIX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Edison International,Utilities
+EL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Estée Lauder Companies (The),Consumer Staples
+ELV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Elevance Health,Health Care
+EME,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Emcor,Industrials
+EMR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Emerson Electric,Industrials
+EOG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,23.0,0.0,0,0,,True,EOG Resources,Energy
+EQIX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Equinix,Real Estate
+EQT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,12.0,0.0,0,0,,True,EQT Corporation,Energy
+ERIE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Erie Indemnity,Financials
+ES,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Eversource Energy,Utilities
+ESS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Essex Property Trust,Real Estate
+ETN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Eaton Corporation,Industrials
+ETR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Entergy,Utilities
+EVRG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Evergy,Utilities
+EW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Edwards Lifesciences,Health Care
+EXC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Exelon,Utilities
+EXE,False,2021-02-10,2024-12-31,0.0,26,26,26,0,0,0.0,15.0,0.0,0,0,history starts 2021-02-10 (unequal history),False,Expand Energy,Energy
+EXPD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,Expeditors International,Industrials
+EXPE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Expedia Group,Consumer Discretionary
+EXR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Extra Space Storage,Real Estate
+F,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,13.0,0.0,0,0,,True,Ford Motor Company,Consumer Discretionary
+FANG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Diamondback Energy,Energy
+FAST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Fastenal,Industrials
+FCX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Freeport-McMoRan,Materials
+FDS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,FactSet,Financials
+FDX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,FedEx,Industrials
+FDXF,True,,,0.0,1005,1005,1005,0,0,,,0.0,0,0,no data returned by yfinance,False,FedEx Freight,Industrials
+FE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,FirstEnergy,Utilities
+FERG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,27,0.0,13.0,0.0,0,0,zero or negative volume,False,Ferguson Enterprises,Industrials
+FFIV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,"F5, Inc.",Information Technology
+FICO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Fair Isaac,Information Technology
+FIS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Fidelity National Information Services,Financials
+FISV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Fiserv,Financials
+FITB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Fifth Third Bancorp,Financials
+FIX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Comfort Systems USA,Industrials
+FLEX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Flex Ltd.,Information Technology
+FOX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,Fox Corporation (Class B),Communication Services
+FOXA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,Fox Corporation (Class A),Communication Services
+FRT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Federal Realty Investment Trust,Real Estate
+FSLR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,First Solar,Information Technology
+FTNT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Fortinet,Information Technology
+FTV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Fortive,Industrials
+GD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,General Dynamics,Industrials
+GDDY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,GoDaddy,Information Technology
+GE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,3.0,16.0,0.0,0,0,,True,GE Aerospace,Industrials
+GEHC,False,2022-12-15,2024-12-31,0.0,492,492,492,0,0,0.0,7.0,0.0,0,0,history starts 2022-12-15 (unequal history),False,GE HealthCare,Health Care
+GEN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Gen Digital,Information Technology
+GEV,False,2024-03-27,2024-12-31,0.0,812,812,812,0,0,0.0,1.0,0.0,0,0,history starts 2024-03-27 (unequal history),False,GE Vernova,Industrials
+GILD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Gilead Sciences,Health Care
+GIS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,General Mills,Consumer Staples
+GL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,1,,True,Globe Life,Financials
+GLW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Corning Inc.,Information Technology
+GM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,10.0,0.0,0,0,,True,General Motors,Consumer Discretionary
+GNRC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Generac,Industrials
+GOOG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,3.0,0.0,0,0,,True,Alphabet Inc. (Class C),Communication Services
+GOOGL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,3.0,0.0,0,0,,True,Alphabet Inc. (Class A),Communication Services
+GPC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Genuine Parts Company,Consumer Discretionary
+GPN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Global Payments,Financials
+GRMN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Garmin,Consumer Discretionary
+GS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Goldman Sachs,Financials
+GWW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,W. W. Grainger,Industrials
+HAL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Halliburton,Energy
+HAS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hasbro,Consumer Discretionary
+HBAN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Huntington Bancshares,Financials
+HCA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,HCA Healthcare,Health Care
+HD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Home Depot (The),Consumer Discretionary
+HIG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hartford (The),Financials
+HII,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Huntington Ingalls Industries,Industrials
+HLT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,11.0,0.0,0,0,,True,Hilton Worldwide,Consumer Discretionary
+HON,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Honeywell Technologies,Industrials
+HONA,True,,,0.0,1005,1005,1005,0,0,,,0.0,0,0,no data returned by yfinance,False,Honeywell Aerospace,Industrials
+HOOD,False,2021-07-29,2024-12-31,0.0,143,143,143,0,0,0.0,0.0,0.0,0,1,history starts 2021-07-29 (unequal history),False,Robinhood Markets,Financials
+HPE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hewlett Packard Enterprise,Information Technology
+HPQ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,HP Inc.,Information Technology
+HRL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hormel Foods,Consumer Staples
+HSIC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Henry Schein,Health Care
+HST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,12.0,0.0,0,0,,True,Host Hotels & Resorts,Real Estate
+HSY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hershey Company (The),Consumer Staples
+HUBB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Hubbell Incorporated,Industrials
+HUM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Humana,Health Care
+HWM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,14.0,0.0,0,0,,True,Howmet Aerospace,Industrials
+IBKR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Interactive Brokers,Financials
+IBM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,IBM,Information Technology
+ICE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Intercontinental Exchange,Financials
+IDXX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Idexx Laboratories,Health Care
+IEX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,IDEX Corporation,Industrials
+IFF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,International Flavors & Fragrances,Materials
+ILMN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,"Illumina, Inc.",Health Care
+INCY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Incyte,Health Care
+INTC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Intel,Information Technology
+INTU,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Intuit,Information Technology
+INVH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Invitation Homes,Real Estate
+IP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,International Paper,Materials
+IQV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,IQVIA,Health Care
+IR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,13.0,0.0,0,0,,True,Ingersoll Rand,Industrials
+IRM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Iron Mountain,Real Estate
+ISRG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Intuitive Surgical,Health Care
+IT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Gartner,Information Technology
+ITW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Illinois Tool Works,Industrials
+IVZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Invesco,Financials
+J,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Jacobs Solutions,Industrials
+JBHT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,J.B. Hunt,Industrials
+JBL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Jabil,Information Technology
+JCI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Johnson Controls,Industrials
+JKHY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Jack Henry & Associates,Financials
+JNJ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Johnson & Johnson,Health Care
+JPM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,JPMorgan Chase,Financials
+KDP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Keurig Dr Pepper,Consumer Staples
+KEY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,KeyCorp,Financials
+KEYS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Keysight Technologies,Information Technology
+KHC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Kraft Heinz,Consumer Staples
+KIM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Kimco Realty,Real Estate
+KKR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,KKR & Co.,Financials
+KLAC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,KLA Corporation,Information Technology
+KMB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Kimberly-Clark,Consumer Staples
+KMI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Kinder Morgan,Energy
+KO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Coca-Cola Company (The),Consumer Staples
+KR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Kroger,Consumer Staples
+L,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Loews Corporation,Financials
+LDOS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Leidos,Industrials
+LEN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Lennar,Consumer Discretionary
+LH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,11.0,0.0,0,0,,True,Labcorp,Health Care
+LHX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,L3Harris,Industrials
+LII,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Lennox International,Industrials
+LIN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Linde plc,Materials
+LITE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Lumentum,Information Technology
+LLY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Lilly (Eli),Health Care
+LMT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Lockheed Martin,Industrials
+LNT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Alliant Energy,Utilities
+LOW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Lowe's,Consumer Discretionary
+LRCX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Lam Research,Information Technology
+LULU,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Lululemon Athletica,Consumer Discretionary
+LUV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,9.0,0.0,0,0,,True,Southwest Airlines,Industrials
+LVS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,6.0,0.0,0,0,,True,Las Vegas Sands,Consumer Discretionary
+LYB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,LyondellBasell,Materials
+LYV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Live Nation Entertainment,Communication Services
+MA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Mastercard,Financials
+MAA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Mid-America Apartment Communities,Real Estate
+MAR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,11.0,0.0,0,0,,True,Marriott International,Consumer Discretionary
+MAS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Masco,Industrials
+MCD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,McDonald's,Consumer Discretionary
+MCHP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Microchip Technology,Information Technology
+MCK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,McKesson,Health Care
+MCO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Moody's Corporation,Financials
+MDLZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Mondelez International,Consumer Staples
+MDT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Medtronic,Health Care
+MET,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,MetLife,Financials
+META,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,4.0,0.0,0,0,,True,Meta Platforms,Communication Services
+MGM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,MGM Resorts,Consumer Discretionary
+MKC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,McCormick & Company,Consumer Staples
+MLM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Martin Marietta Materials,Materials
+MMM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,3M,Industrials
+MNST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Monster Beverage,Consumer Staples
+MO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Altria,Consumer Staples
+MOS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Mosaic Company (The),Materials
+MPC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Marathon Petroleum,Energy
+MPWR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Monolithic Power Systems,Information Technology
+MRK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Merck & Co.,Health Care
+MRNA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Moderna,Health Care
+MRSH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Marsh McLennan,Financials
+MRVL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Marvell Technology,Information Technology
+MS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Morgan Stanley,Financials
+MSCI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,MSCI,Financials
+MSFT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Microsoft,Information Technology
+MSI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Motorola Solutions,Information Technology
+MTB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,M&T Bank,Financials
+MTD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Mettler Toledo,Health Care
+MU,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,14.0,0.0,0,0,,True,Micron Technology,Information Technology
+NCLH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Norwegian Cruise Line Holdings,Consumer Discretionary
+NDAQ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,"Nasdaq, Inc.",Financials
+NDSN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Nordson Corporation,Industrials
+NEE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,NextEra Energy,Utilities
+NEM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Newmont,Materials
+NFLX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Netflix,Communication Services
+NI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,NiSource,Utilities
+NKE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,"Nike, Inc.",Consumer Discretionary
+NOC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Northrop Grumman,Industrials
+NOW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,ServiceNow,Information Technology
+NRG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,NRG Energy,Utilities
+NSC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Norfolk Southern,Industrials
+NTAP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,NetApp,Information Technology
+NTRS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Northern Trust,Financials
+NUE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Nucor,Materials
+NVDA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,16.0,0.0,0,0,,True,Nvidia,Information Technology
+NVR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,"NVR, Inc.",Consumer Discretionary
+NWS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,News Corp (Class B),Communication Services
+NWSA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,News Corp (Class A),Communication Services
+NXPI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,NXP Semiconductors,Information Technology
+O,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,47.0,0.0,0,0,,True,Realty Income,Real Estate
+ODFL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Old Dominion,Industrials
+OKE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Oneok,Energy
+OKTA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,"Okta, Inc.",Information Technology
+OMC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Omnicom Group,Communication Services
+ON,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,ON Semiconductor,Information Technology
+ORCL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Oracle Corporation,Information Technology
+ORLY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,O'Reilly Automotive,Consumer Discretionary
+OTIS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Otis Worldwide,Industrials
+OXY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Occidental Petroleum,Energy
+P,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Everpure,Information Technology
+PANW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,0.0,0.0,0,0,,True,Palo Alto Networks,Information Technology
+PAYX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Paychex,Industrials
+PCAR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,20.0,0.0,0,0,,True,Paccar,Industrials
+PCG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,5.0,0.0,0,0,,True,PG&E Corporation,Utilities
+PEG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Public Service Enterprise Group,Utilities
+PEP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,PepsiCo,Consumer Staples
+PFE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Pfizer,Health Care
+PFG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Principal Financial Group,Financials
+PG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Procter & Gamble,Consumer Staples
+PGR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Progressive Corporation,Financials
+PH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Parker Hannifin,Industrials
+PHM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,PulteGroup,Consumer Discretionary
+PKG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Packaging Corporation of America,Materials
+PLD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Prologis,Real Estate
+PLTR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Palantir Technologies,Information Technology
+PM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Philip Morris International,Consumer Staples
+PNC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,PNC Financial Services,Financials
+PNR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Pentair,Industrials
+PNW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Pinnacle West Capital,Utilities
+PODD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Insulet Corporation,Health Care
+PPG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,PPG Industries,Materials
+PPL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,PPL Corporation,Utilities
+PRU,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Prudential Financial,Financials
+PSA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,Public Storage,Real Estate
+PSX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Phillips 66,Energy
+PTC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,PTC Inc.,Information Technology
+PWR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Quanta Services,Industrials
+PYPL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,PayPal,Financials
+Q,True,,,0.0,1005,1005,1005,0,0,,,0.0,0,0,no data returned by yfinance,False,Qnity Electronics,Information Technology
+QCOM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Qualcomm,Information Technology
+RCL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,2.0,0.0,0,0,,True,Royal Caribbean Group,Consumer Discretionary
+RDDT,False,2024-03-21,2024-12-31,0.0,808,808,808,0,0,0.0,0.0,0.0,0,1,history starts 2024-03-21 (unequal history),False,Reddit,Communication Services
+REG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Regency Centers,Real Estate
+REGN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Regeneron Pharmaceuticals,Health Care
+RF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Regions Financial Corporation,Financials
+RJF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Raymond James Financial,Financials
+RL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Ralph Lauren Corporation,Consumer Discretionary
+RMD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,ResMed,Health Care
+ROK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Rockwell Automation,Industrials
+ROL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,"Rollins, Inc.",Industrials
+ROP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Roper Technologies,Information Technology
+ROST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ross Stores,Consumer Discretionary
+RSG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Republic Services,Industrials
+RTX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,RTX Corporation,Industrials
+RVTY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Revvity,Health Care
+SBAC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,SBA Communications,Real Estate
+SBUX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Starbucks,Consumer Discretionary
+SCHW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Charles Schwab Corporation,Financials
+SHW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Sherwin-Williams,Materials
+SJM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,J.M. Smucker Company (The),Consumer Staples
+SKYD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Skydance,Communication Services
+SLB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Schlumberger,Energy
+SMCI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,Supermicro,Information Technology
+SNA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Snap-on,Industrials
+SNDK,True,,,0.0,1005,1005,1005,0,0,,,0.0,0,0,no data returned by yfinance,False,Sandisk,Information Technology
+SNPS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Synopsys,Information Technology
+SO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Southern Company,Utilities
+SOLV,False,2024-03-26,2024-12-31,0.0,811,811,811,0,0,0.0,0.0,0.0,0,0,history starts 2024-03-26 (unequal history),False,Solventum,Health Care
+SPG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Simon Property Group,Real Estate
+SPGI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,S&P Global,Financials
+SRE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Sempra,Utilities
+STE,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Steris,Health Care
+STLD,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Steel Dynamics,Materials
+STT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,State Street Corporation,Financials
+STX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Seagate Technology,Information Technology
+STZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Constellation Brands,Consumer Staples
+SW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,424,0.0,9.0,0.0,0,0,zero or negative volume,False,Smurfit Westrock,Materials
+SWK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Stanley Black & Decker,Industrials
+SWKS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Skyworks Solutions,Information Technology
+SYF,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Synchrony Financial,Financials
+SYK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Stryker Corporation,Health Care
+SYY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Sysco,Consumer Staples
+T,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,AT&T,Communication Services
+TDG,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,3.0,0.0,0,0,,True,TransDigm Group,Industrials
+TDY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Teledyne Technologies,Information Technology
+TECH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Bio-Techne,Health Care
+TEL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,TE Connectivity,Information Technology
+TER,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Teradyne,Information Technology
+TFC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Truist Financial,Financials
+TGT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Target Corporation,Consumer Staples
+TJX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,TJX Companies,Consumer Discretionary
+TKO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,11.0,0.0,0,0,,True,TKO Group Holdings,Communication Services
+TMO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Thermo Fisher Scientific,Health Care
+TMUS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,5.0,0.0,0,0,,True,T-Mobile US,Communication Services
+TPL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,17.0,0.0,0,0,,True,Texas Pacific Land Corporation,Energy
+TPR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,14.0,0.0,0,0,,True,"Tapestry, Inc.",Consumer Discretionary
+TRGP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Targa Resources,Energy
+TRMB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Trimble Inc.,Information Technology
+TROW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,17.0,0.0,0,0,,True,T. Rowe Price,Financials
+TRV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Travelers Companies (The),Financials
+TSCO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Tractor Supply,Consumer Discretionary
+TSLA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,0.0,0.0,0,0,,True,"Tesla, Inc.",Consumer Discretionary
+TSN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Tyson Foods,Consumer Staples
+TT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Trane Technologies,Industrials
+TTWO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Take-Two Interactive,Communication Services
+TWLO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Twilio,Information Technology
+TXN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Texas Instruments,Information Technology
+TXT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Textron,Industrials
+TYL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Tyler Technologies,Information Technology
+UAL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,United Airlines Holdings,Industrials
+UBER,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Uber,Industrials
+UDR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,"UDR, Inc.",Real Estate
+UHS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Universal Health Services,Health Care
+ULTA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Ulta Beauty,Consumer Discretionary
+UNH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,UnitedHealth Group,Health Care
+UNP,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Union Pacific Corporation,Industrials
+UPS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,United Parcel Service,Industrials
+URI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,8.0,0.0,0,0,,True,United Rentals,Industrials
+USB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,U.S. Bancorp,Financials
+V,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Visa Inc.,Financials
+VEEV,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Veeva Systems,Health Care
+VICI,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Vici Properties,Real Estate
+VLO,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Valero Energy,Energy
+VLTO,False,2023-10-04,2024-12-31,0.0,692,692,692,0,0,0.0,5.0,0.0,0,0,history starts 2023-10-04 (unequal history),False,Veralto,Industrials
+VMC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Vulcan Materials Company,Materials
+VMRK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Vivmark Residential,Real Estate
+VRSK,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Verisk Analytics,Industrials
+VRSN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Verisign,Information Technology
+VRT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,7.0,0.0,0,0,,True,Vertiv,Industrials
+VRTX,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Vertex Pharmaceuticals,Health Care
+VST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Vistra Corp.,Utilities
+VTR,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Ventas,Real Estate
+VTRS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Viatris,Health Care
+VYLR,True,,,0.0,1005,1005,1005,0,0,,,0.0,0,0,no data returned by yfinance,False,Vylor,Consumer Staples
+VZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Verizon,Communication Services
+WAB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Wabtec,Industrials
+WAT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Waters Corporation,Health Care
+WDAY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,"Workday, Inc.",Information Technology
+WDC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Western Digital,Information Technology
+WEC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,WEC Energy Group,Utilities
+WELL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Welltower,Real Estate
+WFC,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Wells Fargo,Financials
+WM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Waste Management,Industrials
+WMB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Williams Companies,Energy
+WMT,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Walmart,Consumer Staples
+WRB,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,2.0,17.0,0.0,0,0,,True,W. R. Berkley Corporation,Financials
+WSM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,"Williams-Sonoma, Inc.",Consumer Discretionary
+WST,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,West Pharmaceutical Services,Health Care
+WTW,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Willis Towers Watson,Financials
+WY,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,20.0,0.0,0,0,,True,Weyerhaeuser,Real Estate
+WYNN,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,7.0,0.0,0,0,,True,Wynn Resorts,Consumer Discretionary
+XEL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,15.0,0.0,0,0,,True,Xcel Energy,Utilities
+XOM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,ExxonMobil,Energy
+XYL,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Xylem Inc.,Industrials
+XYZ,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,"Block, Inc.",Financials
+YUM,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Yum! Brands,Consumer Discretionary
+ZBH,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,1.0,16.0,0.0,0,0,,True,Zimmer Biomet,Health Care
+ZBRA,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,0.0,0.0,0,0,,True,Zebra Technologies,Information Technology
+ZTS,False,2021-01-04,2024-12-31,0.0,0,0,0,0,0,0.0,16.0,0.0,0,0,,True,Zoetis,Health Care
